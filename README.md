@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @a-sibhatu
+- 👋 Hi, I’m Alexander sibhatu
 - 👀 I’m interested in python, java, C++, readt, js, Node.js
 - 🌱 I’m currently learning MSC computer science at IU International University of Applied Sciences
 - 💞️ I’m looking to collaborate on projects on data science, Machine Learning.
